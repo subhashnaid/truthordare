@@ -68,3 +68,18 @@ p{
     }
     
 }
+@media(max-width:1024px){
+    body{
+        width: 95%;
+    }
+    .border{
+        display: flex;
+        flex-direction: row;
+        gap: 70px;
+        padding: 100px;
+        width: 60%;
+        margin-left: 5%;
+        margin-top: 100px;
+    }
+    
+}
